@@ -1,0 +1,5 @@
+﻿  numbers.cpp
+  root.cpp
+C:\Users\dukue\source\repos\Yandexx\Yandexx\root.cpp(13,24): error C2296: '%': not valid as left operand has type 'double'
+C:\Users\dukue\source\repos\Yandexx\Yandexx\root.cpp(17,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
