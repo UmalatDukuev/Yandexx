@@ -1,5 +1,8 @@
-﻿  numbers.cpp
+﻿  ambulance.cpp
+C:\Users\dukue\source\repos\Yandexx\Yandexx\ambulance.cpp(10,8): error C2061: syntax error: identifier 'p2'
+C:\Users\dukue\source\repos\Yandexx\Yandexx\ambulance.cpp(10,15): error C2143: syntax error: missing ';' before '{'
+C:\Users\dukue\source\repos\Yandexx\Yandexx\ambulance.cpp(16,5): error C2181: illegal else without matching if
+C:\Users\dukue\source\repos\Yandexx\Yandexx\ambulance.cpp(18,5): error C2059: syntax error: '}'
   root.cpp
-C:\Users\dukue\source\repos\Yandexx\Yandexx\root.cpp(13,24): error C2296: '%': not valid as left operand has type 'double'
-C:\Users\dukue\source\repos\Yandexx\Yandexx\root.cpp(17,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\dukue\source\repos\Yandexx\Yandexx\root.cpp(18,33): error C2296: '%': not valid as left operand has type 'double'
   Generating Code...
